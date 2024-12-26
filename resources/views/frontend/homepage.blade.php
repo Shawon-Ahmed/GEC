@@ -829,6 +829,3 @@
     </section>
 </div>
 @endsection
-@section()
-
-@endsection
