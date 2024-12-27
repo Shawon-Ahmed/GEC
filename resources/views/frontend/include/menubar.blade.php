@@ -5,7 +5,7 @@
                 <div class="header-column">
                     <div class="header-row">
                         <div class="header-logo">
-                            <a href="demo-business-consulting.html">
+                            <a href="{{ route('homepage') }}">
                                 <img alt="Porto" width="82" height="40" src="{{ asset('frontend/img/logo.jpg') }}">
                             </a>
                         </div>
@@ -18,18 +18,18 @@
                                 <nav class="collapse">
                                     <ul class="nav nav-pills" id="mainNav">
                                         <li>
-                                            <a class="nav-link active" href="demo-business-consulting.html">
+                                            <a class="nav-link active" href="{{ route('homepage') }}">
                                                 Home
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="nav-link" href="demo-business-consulting-about-us.html">
+                                            <a class="nav-link" href="{{ route('aboutUs') }}">
                                                 About Us
                                             </a>
                                         </li>
                                         <li class="dropdown dropdown-primary">
-                                            <a class="dropdown-toggle nav-link" href="demo-business-consulting-expertise.html">
-                                                Expertise
+                                            <a class="dropdown-toggle nav-link" href="{{ route('service') }}">
+                                                Service
                                             </a>
                                             <ul class="dropdown-menu">
                                                 <li>
@@ -65,27 +65,22 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <a class="nav-link" href="demo-business-consulting-cases.html">
-                                                Cases
+                                            <a class="nav-link" href="{{ route('project') }}">
+                                                Project
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="nav-link" href="demo-business-consulting-tertimonials.html">
-                                                Testimonials
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a class="nav-link" href="demo-business-consulting-team.html">
+                                            <a class="nav-link" href="{{ route('team') }}">
                                                 Team
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="nav-link" href="demo-business-consulting-blog.html">
+                                            <a class="nav-link" href="{{ route('blog') }}">
                                                 Blog
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="nav-link" href="demo-business-consulting-contact-us.html">
+                                            <a class="nav-link" href="{{ route('contactUs') }}">
                                                 Contact Us
                                             </a>
                                         </li>

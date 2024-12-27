@@ -291,8 +291,8 @@
                                     </span>
                                 </span>
                                 <div class="step-content">
-                                    <h4 class="mb-3">The first meeting<br> <strong>Understanding the Problem</strong></h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat ex finibus urna tincidunt, auctor ullamcorper risus luctus. Nunc et feugiat arcu, in placerat risus. Phasellus condimentum sapien vitae odio.</p>
+                                    <h4 class="mb-3"><strong>Vision</strong></h4>
+                                    <p>To be a leading provider of sustainable and innovative greenhouse construction and engineering solutions, recognized for our expertise, quality, and customer satisfaction.</p>
                                 </div>
                             </div>
                         </div>
@@ -305,8 +305,8 @@
                                     </span>
                                 </span>
                                 <div class="step-content">
-                                    <h4 class="mb-3">The second meeting<br> <strong>Business Plan Consultant</strong></h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat ex finibus urna tincidunt, auctor ullamcorper risus luctus. Nunc et feugiat arcu, in placerat risus. Phasellus condimentum sapien vitae odio.</p>
+                                    <h4 class="mb-3"><strong>Mission</strong></h4>
+                                    <p>To design, engineer, and construct high-quality, energy-efficient greenhouses that optimize crop production and minimize environmental impact, while providing comprehensive consultancy services to our clients.</p>
                                 </div>
                             </div>
                         </div>
@@ -319,8 +319,97 @@
                                     </span>
                                 </span>
                                 <div class="step-content">
-                                    <h4 class="mb-3">The final meeting<br> <strong>Problem Solved</strong></h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla volutpat ex finibus urna tincidunt, auctor ullamcorper risus luctus. Nunc et feugiat arcu, in placerat risus. Phasellus condimentum sapien vitae odio.</p>
+                                    <h4 class="mb-3"><strong>Core Values</strong></h4>
+                                    <p>Sustainability: Prioritizing environmentally friendly practices and technologies.
+                                    Innovation: Embracing cutting-edge solutions and technologies to enhance greenhouse performance.
+                                    Quality: Delivering exceptional quality in every aspect of our work, from design to construction.
+                                    Customer Focus: Understanding and meeting the unique needs of our clients.
+                                    Integrity: Maintaining the highest ethical standards in all our business dealings.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="custom-step-item">
+                                <span class="step text-uppercase">
+                                    Step
+                                    <span class="step-number text-color-primary">
+                                        04
+                                    </span>
+                                </span>
+                                <div class="step-content">
+                                    <h4 class="mb-3"><strong>Target Market</strong></h4>
+                                    <p>Commercial Greenhouse Growers: Large-scale producers of fruits, vegetables, and flowers.
+                                    Research Institutions: Universities and research organizations conducting horticultural research.
+                                    Private Individuals: Homeowners and hobbyists interested in growing plants in controlled environments.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="custom-step-item">
+                                <span class="step text-uppercase">
+                                    Step
+                                    <span class="step-number text-color-primary">
+                                        05
+                                    </span>
+                                </span>
+                                <div class="step-content">
+                                    <h4 class="mb-3"><strong>Competitive Advantages</strong></h4>
+                                    <p>Expertise: A team of experienced engineers, architects, and horticulturalists with in-depth knowledge of greenhouse design and construction.
+                                    Sustainability Focus: Specializing in energy-efficient and environmentally friendly greenhouse solutions.
+                                    Innovation: Continuously exploring and implementing new technologies and best practices.
+                                    Customer-Centric Approach: Tailoring solutions to meet the specific needs and budgets of our clients.
+                                    Comprehensive Services: Offering a full range of services, from initial design and engineering to construction and ongoing maintenance.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="custom-step-item">
+                                <span class="step text-uppercase">
+                                    Step
+                                    <span class="step-number text-color-primary">
+                                        06
+                                    </span>
+                                </span>
+                                <div class="step-content">
+                                    <h4 class="mb-3"><strong>Marketing and Sales Strategy</strong></h4>
+                                    <p>Develop a strong online presence: Create a professional website and utilize social media platforms to showcase our expertise and projects.
+                                    Network with industry professionals: Attend trade shows, conferences, and industry events to connect with potential clients.
+                                    Build relationships with key stakeholders: Collaborate with suppliers, contractors, and other industry partners.
+                                    Offer competitive pricing and flexible financing options: Make our services accessible to a wider range of clients.
+                                    Provide excellent customer service: Build long-term relationships with clients through ongoing support and maintenance.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="custom-step-item">
+                                <span class="step text-uppercase">
+                                    Step
+                                    <span class="step-number text-color-primary">
+                                        07
+                                    </span>
+                                </span>
+                                <div class="step-content">
+                                    <h4 class="mb-3"><strong>Operational Strategy</strong></h4>
+                                    <p>Utilize Building Information Modeling (BIM) technology: Enhance design and construction efficiency.
+                                    Implement Lean Construction principles: Minimize waste and optimize project timelines.
+                                    Maintain a strong safety culture: Prioritize the safety of our employees and clients.
+                                    Invest in continuous improvement: Regularly review and refine our processes and technologies.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="custom-step-item">
+                                <span class="step text-uppercase">
+                                    Step
+                                    <span class="step-number text-color-primary">
+                                        08
+                                    </span>
+                                </span>
+                                <div class="step-content">
+                                    <h4 class="mb-3"><strong>Financial Strategy</strong></h4>
+                                    <p>Develop a sound financial plan: Secure funding for business operations and growth.
+                                    Manage costs effectively: Optimize resource utilization and negotiate favorable contracts with suppliers.
+                                    Generate sustainable revenue streams: Diversify our service offerings and expand into new markets.</p>
                                 </div>
                             </div>
                         </div>
@@ -406,209 +495,6 @@
             </div>
         </div>
     </section>
-
-    <section class="section-secondary custom-section-padding-2">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <h2 class="font-weight-bold text-color-dark mb-3">- Our Cases</h2>
-                </div>
-            </div>
-        </div>
-        <div class="owl-carousel show-nav-title custom-both-sides-shadow custom-dots-position-2 custom-dots-style-1 custom-xs-arrows-style-2 mb-0" data-plugin-options="{'items': 6, 'loop': false, 'dots': true, 'nav': false}">
-            <div>
-                <a href="demo-business-consulting-cases-detail.html" class="text-decoration-none">
-                    <span class="thumb-info custom-thumb-info-style-1 thumb-info-hide-wrapper-bg">
-                        <span class="thumb-info-wrapper m-0">
-                            <img src="{{ asset('frontend/img/demos/business-consulting/cases/case-1.jpg') }}" class="img-fluid" alt="">
-                        </span>
-                        <span class="thumb-info-caption bg-color-secondary p-4 pt-5 pb-5">
-                            <span class="custom-thumb-info-title">
-                                <span class="custom-thumb-info-name font-weight-semibold text-color-dark text-4">Corporate Finance</span>
-                                <span class="custom-thumb-info-desc font-weight-light">Okler</span>
-                            </span>
-                            <span class="custom-arrow"></span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-            <div>
-                <a href="demo-business-consulting-cases-detail.html" class="text-decoration-none">
-                    <span class="thumb-info custom-thumb-info-style-1 thumb-info-hide-wrapper-bg">
-                        <span class="thumb-info-wrapper m-0">
-                            <img src="{{ asset('frontend/img/demos/business-consulting/cases/case-2.jpg') }}" class="img-fluid" alt="">
-                        </span>
-                        <span class="thumb-info-caption bg-color-secondary p-4 pt-5 pb-5">
-                            <span class="custom-thumb-info-title">
-                                <span class="custom-thumb-info-name font-weight-semibold text-color-dark text-4">Corporate Restructuring</span>
-                                <span class="custom-thumb-info-desc font-weight-light">Envato</span>
-                            </span>
-                            <span class="custom-arrow"></span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-            <div>
-                <a href="demo-business-consulting-cases-detail.html" class="text-decoration-none">
-                    <span class="thumb-info custom-thumb-info-style-1 thumb-info-hide-wrapper-bg">
-                        <span class="thumb-info-wrapper m-0">
-                            <img src="{{ asset('frontend/img/demos/business-consulting/cases/case-3.jpg') }}" class="img-fluid" alt="">
-                        </span>
-                        <span class="thumb-info-caption bg-color-secondary p-4 pt-5 pb-5">
-                            <span class="custom-thumb-info-title">
-                                <span class="custom-thumb-info-name font-weight-semibold text-color-dark text-4">Economic Consultanting</span>
-                                <span class="custom-thumb-info-desc font-weight-light">Porto</span>
-                            </span>
-                            <span class="custom-arrow"></span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-            <div>
-                <a href="demo-business-consulting-cases-detail.html" class="text-decoration-none">
-                    <span class="thumb-info custom-thumb-info-style-1 thumb-info-hide-wrapper-bg">
-                        <span class="thumb-info-wrapper m-0">
-                            <img src="{{ asset('frontend/img/demos/business-consulting/cases/case-4.jpg') }}" class="img-fluid" alt="">
-                        </span>
-                        <span class="thumb-info-caption bg-color-secondary p-4 pt-5 pb-5">
-                            <span class="custom-thumb-info-title">
-                                <span class="custom-thumb-info-name font-weight-semibold text-color-dark text-4">Tech Consulting</span>
-                                <span class="custom-thumb-info-desc font-weight-light">GetCustom</span>
-                            </span>
-                            <span class="custom-arrow"></span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-            <div>
-                <a href="demo-business-consulting-cases-detail.html" class="text-decoration-none">
-                    <span class="thumb-info custom-thumb-info-style-1 thumb-info-hide-wrapper-bg">
-                        <span class="thumb-info-wrapper m-0">
-                            <img src="{{ asset('frontend/img/demos/business-consulting/cases/case-5.jpg') }}" class="img-fluid" alt="">
-                        </span>
-                        <span class="thumb-info-caption bg-color-secondary p-4 pt-5 pb-5">
-                            <span class="custom-thumb-info-title">
-                                <span class="custom-thumb-info-name font-weight-semibold text-color-dark text-4">Strategic</span>
-                                <span class="custom-thumb-info-desc font-weight-light">Jet Orange</span>
-                            </span>
-                            <span class="custom-arrow"></span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-            <div>
-                <a href="demo-business-consulting-cases-detail.html" class="text-decoration-none">
-                    <span class="thumb-info custom-thumb-info-style-1 thumb-info-hide-wrapper-bg">
-                        <span class="thumb-info-wrapper m-0">
-                            <img src="{{ asset('frontend/img/demos/business-consulting/cases/case-1.jpg') }}" class="img-fluid" alt="">
-                        </span>
-                        <span class="thumb-info-caption bg-color-secondary p-4 pt-5 pb-5">
-                            <span class="custom-thumb-info-title">
-                                <span class="custom-thumb-info-name font-weight-semibold text-color-dark text-4">Litigation</span>
-                                <span class="custom-thumb-info-desc font-weight-light">Paradoxx</span>
-                            </span>
-                            <span class="custom-arrow"></span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-            <div>
-                <a href="demo-business-consulting-cases-detail.html" class="text-decoration-none">
-                    <span class="thumb-info custom-thumb-info-style-1 thumb-info-hide-wrapper-bg">
-                        <span class="thumb-info-wrapper m-0">
-                            <img src="{{ asset('frontend/img/demos/business-consulting/cases/case-2.jpg') }}" class="img-fluid" alt="">
-                        </span>
-                        <span class="thumb-info-caption bg-color-secondary p-4 pt-5 pb-5">
-                            <span class="custom-thumb-info-title">
-                                <span class="custom-thumb-info-name font-weight-semibold text-color-dark text-4">Consulting</span>
-                                <span class="custom-thumb-info-desc font-weight-light">iMessenger</span>
-                            </span>
-                            <span class="custom-arrow"></span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-            <div>
-                <a href="demo-business-consulting-cases-detail.html" class="text-decoration-none">
-                    <span class="thumb-info custom-thumb-info-style-1 thumb-info-hide-wrapper-bg">
-                        <span class="thumb-info-wrapper m-0">
-                            <img src="{{ asset('frontend/img/demos/business-consulting/cases/case-3.jpg') }}" class="img-fluid" alt="">
-                        </span>
-                        <span class="thumb-info-caption bg-color-secondary p-4 pt-5 pb-5">
-                            <span class="custom-thumb-info-title">
-                                <span class="custom-thumb-info-name font-weight-semibold text-color-dark text-4">Brand Consulting</span>
-                                <span class="custom-thumb-info-desc font-weight-light">Theme Forest</span>
-                            </span>
-                            <span class="custom-arrow"></span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-            <div>
-                <a href="demo-business-consulting-cases-detail.html" class="text-decoration-none">
-                    <span class="thumb-info custom-thumb-info-style-1 thumb-info-hide-wrapper-bg">
-                        <span class="thumb-info-wrapper m-0">
-                            <img src="{{ asset('frontend/img/demos/business-consulting/cases/case-4.jpg') }}" class="img-fluid" alt="">
-                        </span>
-                        <span class="thumb-info-caption bg-color-secondary p-4 pt-5 pb-5">
-                            <span class="custom-thumb-info-title">
-                                <span class="custom-thumb-info-name font-weight-semibold text-color-dark text-4">Corporate Consulting</span>
-                                <span class="custom-thumb-info-desc font-weight-light">Tucson</span>
-                            </span>
-                            <span class="custom-arrow"></span>
-                        </span>
-                    </span>
-                </a>
-            </div>
-        </div>
-    </section>
-
-    <section class="custom-section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <h2 class="font-weight-bold text-color-dark">- Testimonials</h2>
-                </div>
-            </div>
-            <div class="row">						
-                <div class="col">
-                    <div class="owl-carousel show-nav-title custom-dots-style-1 custom-dots-position custom-xs-arrows-style-2 mb-0" data-plugin-options="{'items': 1, 'autoHeight': true, 'loop': false, 'nav': false, 'dots': true}">
-                        <div class="row">
-                            <div class="col-8 col-sm-4 col-lg-2 text-center pt-5">
-                                <img src="img/demos/business-consulting/testimonials/testimonial-author-2.jpg" alt class="img-fluid custom-rounded-image" />
-                            </div>
-                            <div class="col-12 col-sm-12 col-lg-10">
-                                <div class="testimonial custom-testimonial-style-1 testimonial-with-quotes mb-0">
-                                    <blockquote class="pb-2">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce ante tellus, convallis non consectetur sed, pharetra nec ex. Aliquam et tortor nisi. Duis mollis diam nec elit volutpat suscipit.</p>
-                                    </blockquote>
-                                    <div class="testimonial-author float-left">
-                                        <p><strong>John Smith</strong><span class="text-color-primary">CEO &amp; Founder - Okler</span></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-8 col-sm-4 col-lg-2 text-center pt-5">
-                                <img src="img/demos/business-consulting/testimonials/testimonial-author-3.jpg" alt class="img-fluid custom-rounded-image" />
-                            </div>
-                            <div class="col-12 col-sm-12 col-lg-10">
-                                <div class="testimonial custom-testimonial-style-1 testimonial-with-quotes mb-0">
-                                    <blockquote class="pb-2">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce ante tellus, convallis non consectetur sed, pharetra nec ex. Aliquam et tortor nisi. Duis mollis diam nec elit volutpat suscipit.</p>
-                                    </blockquote>
-                                    <div class="testimonial-author float-left">
-                                        <p><strong>John Smith</strong><span class="text-color-primary">CEO &amp; Founder - Okler</span></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <section class="section-secondary custom-section-padding">
         <div class="container">
             <div class="row">

@@ -16,12 +16,15 @@
 				<div class="bounce3"></div>
 			</div>
 		</div>
+
 		<div class="body">
+
         @include('frontend.include.menubar')
 
         @yield('body-content')
 
         @include('frontend.include.footer')
+		
 		</div>
 
 		@include('frontend.include.js')

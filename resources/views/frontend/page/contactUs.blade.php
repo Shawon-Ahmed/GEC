@@ -15,7 +15,7 @@
                 </div>
                 <div class="col-md-4 order-1 order-md-2 align-self-center">
                     <ul class="breadcrumb d-block text-md-right breadcrumb-light">
-                        <li><a href="demo-business-consulting.html">Home</a></li>
+                        <li><a href="{{ route('homepage') }}">Home</a></li>
                         <li class="active">Contact Us</li>
                     </ul>
                 </div>
